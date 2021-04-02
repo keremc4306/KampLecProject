@@ -26,11 +26,15 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet]
-        public List<Product> Get()
+        public IActionResult Get()
         {
             // Dependency chain
             var result = _productService.GetAll();
-            return result.Data;
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
         }
     }
 }
