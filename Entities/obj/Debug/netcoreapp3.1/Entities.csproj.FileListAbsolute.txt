@@ -1,0 +1,12 @@
+C:\Users\canda\source\repos\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\canda\source\repos\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\canda\source\repos\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\canda\source\repos\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\canda\source\repos\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\canda\source\repos\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\canda\source\repos\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\canda\source\repos\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\canda\source\repos\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\canda\source\repos\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\canda\source\repos\MyFinalProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\canda\source\repos\MyFinalProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete

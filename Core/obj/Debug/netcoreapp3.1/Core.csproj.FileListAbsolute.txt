@@ -1,0 +1,9 @@
+C:\Users\canda\source\repos\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\canda\source\repos\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\canda\source\repos\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\canda\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\canda\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\canda\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\canda\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\canda\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\canda\source\repos\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.pdb

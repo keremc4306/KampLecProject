@@ -1,0 +1,16 @@
+C:\Users\canda\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\canda\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\canda\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\canda\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\canda\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\canda\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\canda\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\canda\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\canda\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\canda\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\canda\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\canda\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\canda\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\canda\source\repos\MyFinalProject\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\canda\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\canda\source\repos\MyFinalProject\Business\bin\Debug\netcoreapp3.1\Core.pdb
