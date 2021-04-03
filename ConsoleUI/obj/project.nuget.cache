@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5Sxd0JITY1RqpG5yD1Vi6vVlnVc/41ueTdgfieJbWHpIuA2IxBaHW0DpBJ+IuJBIZad5Grs44Ulvs2Y4xPJMnQ==",
+  "dgSpecHash": "4zjX+Ty59JmkhnlI8JHp7D27p2jdsgsjbICohTWmbpxMGZP2q8So1Is4lVdx3vhop9w8XFViPuhGKs/1LFZRvA==",
   "success": true,
   "projectFilePath": "C:\\Users\\canda\\source\\repos\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\canda\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\canda\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
