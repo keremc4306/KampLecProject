@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0TAQNrSrGMgkL1RBnrGZNQdMHtET0cS4vE0mhPX/YmVje7yZUoNKMy5ze8yAckDhf7fgU5IU/uZd449yRosHFA==",
+  "dgSpecHash": "loZ69iWgTzVZmexcYj/MBEnfQhKcfdoCMYSAgMmBKGRSOEvIdtWPd63hBSu8r6K3hRua1bU59bLiliGl7TR0Pw==",
   "success": true,
   "projectFilePath": "C:\\Users\\canda\\source\\repos\\MyFinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\canda\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\canda\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

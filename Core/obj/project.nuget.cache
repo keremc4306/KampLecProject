@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LVn7cIqvF1UBr9qxILWV0UW9JYn3EnjlTn4iPt2MbKLs1nv0GWPvpPmawC74a1UcdPsW1Q4wLVpxjPmuilqlig==",
+  "dgSpecHash": "OmbcDODsk9iEYInSiB/abZTy8VQ5/oj1BxtTor8GiTguHFbOlXAXpw3CUWqxURz/C5sWjFCf7LaX0W65Xg8KaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\canda\\source\\repos\\MyFinalProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\canda\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\canda\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
