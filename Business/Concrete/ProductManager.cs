@@ -90,6 +90,16 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
+        private IResult CheckIfProductCountOfCategoryCorrect(int categoryId)
+        {
+            var result = _productDal.GetAll(p => p.CategoryId == categoryId).Count;
+            if (result >= 15)
+            {
+                return new ErrorResult(Messages.ProductCountOfCategoryError);
+            }
+            return new SuccessResult();
+        }
+
         private IResult CheckIfProductNameExists(string productName)
         {
             var result = _productDal.GetAll(p => p.ProductName == productName).Any();
