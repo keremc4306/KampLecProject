@@ -87,3 +87,4 @@ C:\Users\canda\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofa
 C:\Users\canda\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\canda\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\canda\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\canda\source\repos\MyFinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
